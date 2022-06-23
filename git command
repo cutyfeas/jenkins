@@ -1,5 +1,7 @@
 //----Create a branch in Git from another branch----
 git branch -b <new branch name>
 git push --set-upstream origin b1
+git push origin <new branch name>
 git status
 git diff
+git remote -v
