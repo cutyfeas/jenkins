@@ -1,1 +1,2 @@
 git branch -b <new branch name>
+git push --set-upstream origin b1
